@@ -3,6 +3,6 @@ vistiekaartjetext: "<p><strong>vistiekaartjetext </strong></p><h1>Erick Ferreira
   Wildrose Lane <br>Detroit, MI 48226</p>"
 layout: homepage
 permalink: "/"
-mediumplaatje: "/uploads/logo7.png"
+mediumplaatje: "/assets/cc.png"
 
 ---
