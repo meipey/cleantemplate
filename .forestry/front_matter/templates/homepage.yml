@@ -23,3 +23,5 @@ fields:
   default: homepage
   config:
     required: true
+pages:
+- content/pages/homepage.md
